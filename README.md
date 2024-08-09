@@ -34,8 +34,8 @@
 
 #### Principais repositórios:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedronunesboa&repo=AnaliseEstatisticaDeDados)](https://github.com/pedronunesboa/AnaliseEstatisticaDeDados))
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedronunesboa&repo=IntroducaoAprendizadodeMaquina)](https://github.com/pedronunesboa/IntroducaoAprendizadodeMaquina)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedronunesboa&theme=dracula&repo=AnaliseEstatisticaDeDados)](https://github.com/pedronunesboa/AnaliseEstatisticaDeDados)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedronunesboa&theme=dracula&repo=IntroducaoAprendizadodeMaquina)](https://github.com/pedronunesboa/IntroducaoAprendizadodeMaquina)
 
 
 
