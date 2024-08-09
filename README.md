@@ -34,8 +34,8 @@
 
 #### Principais repositórios:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedronunesboa&repo=projetoDashCommerce&theme=dracula&hide_border=true)](https://github.com/pedronunesboa/projetoDashCommerce)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedronunesboa&repo=projeto-faarte&theme=dracula&hide_border=true)](https://github.com/pedronunesboa/projeto-faarte)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedronunesboa&repo=AnaliseEstatisticaDeDados)](https://github.com/pedronunesboa/AnaliseEstatisticaDeDados))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedronunesboa&repo=IntroducaoAprendizadodeMaquina)](https://github.com/pedronunesboa/IntroducaoAprendizadodeMaquina)
 
 
 
