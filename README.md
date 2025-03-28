@@ -1,5 +1,5 @@
-## Olá! Me chamo Pedro Henrique Nunes e sou um entustiasta por tecnologia 🫡
-#### Sou formado em Ciência da Computação e tenho conhecimento com desenvolvimento através de alguns projetos realizados durante minha graduação, além de ter experiência com a área de suporte técnico usuário, por meio de serviços prestados para empresas anteriores.
+## Hey, What's up 🫡
+#### I'm Pedro, a Data analyst searching for my first in the field, Enthusiastic about Machine learning/IA.
 
 #### Contato:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pnunesboaventura@gmail.com)
@@ -10,17 +10,14 @@
 
 
 
-### Ultimamente o meu foco vem se tornando a área de Ciência de Dados:
+### About me
 
-- 🤓 Pós Graduando em Ciencia de Dados e Machine Learning pelo [UniCEUB](https://www.uniceub.br)
-* ⭐ Explorando Databases e Competições no Kaggle
-+ 🔎 Aprendendo sobre novas ferramentas, bibliotecas, banco de dados e estatística.
+- 🤓 Postgraduate in Data Science and Machine Learning at [UniCEUB](https://www.uniceub.br)
+* ⭐ Exploring Databases and Competitions on Kaggle
++ 🔎 Learning about new tools, libraries, databases and statistics.
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit](https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Scipy](https://img.shields.io/badge/SciPy-8CAAE6.svg?style=for-the-badge&logo=SciPy&logoColor=white)
-![Numpy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white)
@@ -28,11 +25,11 @@
 ![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)
 
 
-#### Tecnologias mais utilizadas em repositórios:
+#### Most used technologies in repositories:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedronunesboa&layout=compact&theme=dracula&hide_border=true&hide_title=true&langs_count=4&card_width=300)
 
-#### Principais repositórios:
+#### Main repositories:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedronunesboa&theme=dracula&repo=AnaliseEstatisticaDeDados)](https://github.com/pedronunesboa/AnaliseEstatisticaDeDados)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedronunesboa&theme=dracula&repo=IntroducaoAprendizadodeMaquina)](https://github.com/pedronunesboa/IntroducaoAprendizadodeMaquina)
