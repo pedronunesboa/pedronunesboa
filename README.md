@@ -1,5 +1,5 @@
 ## Hey, What's up 🫡
-#### I'm Pedro, a Data analyst searching for my first job in the field, Enthusiastic about Machine learning/IA.
+#### I'm Pedro,  studying to be a Data Analyst, Enthusiastic about Machine learning/IA. Experience in data analysis, business intelligence, and IT operations.
 
 #### Contact:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pnunesboaventura@gmail.com)
