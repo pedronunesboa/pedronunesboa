@@ -1,5 +1,9 @@
 ## Hey, What's up 🫡
-#### I'm Pedro,  studying to be a Data Analyst, Enthusiastic about Machine learning/IA. Experience in data analysis, business intelligence, and IT operations. Currently working as Data Scientist
+#### I'm Pedro - Data Scientist working across the full data lifecycle, from ingestion and transformation to modeling and visualization.
+
+#### I have experience in data analysis, business intelligence, and IT operations. Enthusiastic about turning raw data into insights and building scalable data solutions. In my current role, I work on end-to-end data projects with different purposes — from operational dashboards to predictive models — collaborating closely with multidisciplinary teams.
+
+#### I’m continuously developing my skills in Data Engineering, Cloud Platforms, and Applied AI, aiming to consolidate these as core areas in my future career path.
 
 #### Contact:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pnunesboaventura@gmail.com)
@@ -10,11 +14,21 @@
 
 
 
-### About me
+### 🚀 About me
 
-- 🤓 Postgraduate in Data Science and Machine Learning at [UniCEUB](https://www.uniceub.br)
-* ⭐ Exploring Databases and Competitions on Kaggle
-+ 🔎 Learning about new tools, libraries, databases and statistics.
+- 🎓 Postgraduate in Data Science & Machine Learning - [UniCEUB](https://www.uniceub.br)
+- 📊 Skilled in Python, SQL, Power BI, Git/GitHub, Linux, and database modeling.
+- ☁️ Currently exploring and advancing knowledge in Cloud and Data Engineering.
+- ⭐ Active on Kaggle, exploring datasets and building analytical solutions.
+- 🔎 Passionate about learning new tools, libraries, and statistical methods to solve real-world problems.
+
+### 🛠 Tech & Tools
+
+**Languages & Libraries:** Python (Pandas, NumPy, Scikit-learn), SQL  
+**Data Engineering:** ETL pipelines  
+**Cloud:** AWS  
+**Visualization:** Power BI, Matplotlib, Seaborn, Streamlit  
+**Others:** Git/GitHub, Docker, Linux  
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
