@@ -3,7 +3,7 @@
 
 #### I have experience in data analysis, business intelligence, and IT operations. Enthusiastic about turning raw data into insights and building scalable data solutions. In my current role, I work on end-to-end data projects with different purposes — from operational dashboards to predictive models — collaborating closely with multidisciplinary teams.
 
-#### I’m continuously developing my skills in Data Engineering, Cloud Platforms, and Applied AI, aiming to consolidate these as core areas in my future career path.
+#### I’m continuously developing my skills in Data Engineering, Cloud Platforms, and Generative AI, aiming to consolidate these as core areas in my future career path.
 
 #### Contact:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pnunesboaventura@gmail.com)
