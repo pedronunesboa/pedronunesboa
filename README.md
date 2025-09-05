@@ -47,14 +47,14 @@
 
 #### Main repositories:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedronunesboa&theme=dracula&repo=AnaliseEstatisticaDeDados)](https://github.com/pedronunesboa/AnaliseEstatisticaDeDados)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedronunesboa&theme=dracula&repo=IntroducaoAprendizadodeMaquina)](https://github.com/pedronunesboa/IntroducaoAprendizadodeMaquina)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedronunesboa&theme=dracula&repo=AnaliseEstatisticaDeDados)](https://github.com/pedronunesboa/AnaliseEstatisticaDeDados)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedronunesboa&theme=dracula&repo=IntroducaoAprendizadodeMaquina)](https://github.com/pedronunesboa/IntroducaoAprendizadodeMaquina) -->
 
 
 
 
-<!--![Ryzen](https://img.shields.io/badge/AMD-Ryzen_7_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![Nvidia](https://img.shields.io/badge/NVIDIA-GTX1050Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white) -->
+![Ryzen](https://img.shields.io/badge/AMD-Ryzen_7_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![Nvidia](https://img.shields.io/badge/NVIDIA-GTX1050Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 
 
